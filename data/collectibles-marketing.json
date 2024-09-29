@@ -1,0 +1,47 @@
+{
+  "marketings": {
+    "0": {
+      "type": 0,
+      "version": 5,
+      "title": "Street Fighter 6",
+      "body": "Hit the streets with new Street Fighter items!",
+      "avatar": "https://cdn.discordapp.com/assets/content/7a2ae1ce20142f2bc7f8eeabc1524e03ec54a02fd7acdfc6eafbc596095b82e0.png",
+      "decorations": [
+        "a_68cb6c21d6222cd9285c08068f39873d",
+        "a_bba133b88b21e1b4a36637335536c3a8",
+        "a_1e8cb6070b13f775a41384c84c5a53e1"
+      ],
+      "dismissible_content": 449,
+      "ref_target_background": {
+        "style": {
+          "resting": {
+            "light": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 26.56%, rgba(255, 77, 0, 0.55) 66.59%, #FFFD00 100%)",
+            "dark": "linear-gradient(90deg, rgba(43, 45, 49, 0.00) 28.13%, rgba(255, 107, 0, 0.55) 67.3%, #FFFD00 100%)"
+          },
+          "hovered": {
+            "light": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 6.03%, rgba(255, 77, 0, 0.55) 57.24%, #FFFD00 100%)",
+            "dark": "linear-gradient(90deg, rgba(43, 45, 49, 0.00) 6.03%, rgba(255, 107, 0, 0.55) 57.24%, #FFFD00 100%)"
+          }
+        },
+        "asset": {
+          "resting": {
+            "light": null,
+            "dark": null
+          },
+          "hovered": {
+            "light": "https://cdn.discordapp.com/assets/content/b57054ec389f08b678de8863bca1e656c8239c114833667decac8bbc72e85d53.png",
+            "dark": "https://cdn.discordapp.com/assets/content/f43d480493a49313b351c0884ca3ec6c4ad7895104fb82f4a783e511e6290c76.png"
+          }
+        }
+      }
+    },
+    "2": {
+      "type": 2,
+      "version": 5,
+      "title": "Hit the streets with Street Fighter",
+      "body": "Check out new avatar decorations and profile effects featuring Ryu, Chun Li, Akuma and more.",
+      "asset": "https://cdn.discordapp.com/assets/content/7decd6f5b615d3ec1d513f1485256706499a7084e03b0187a2c112ab9973f4f7.png",
+      "popout_asset": "https://cdn.discordapp.com/assets/content/d7778b707dd96c0bbeff6889cc338ac0ed1670d78d94e6227b69b369418935da.png"
+    }
+  }
+}
