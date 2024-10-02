@@ -528,7 +528,7 @@
       "description": "Did I scare you?",
       "accessibilityLabel": "Graffiti-esque stars are strobing across the profile. But wait, you notice there's something written in the stars... 'BOO!' Did we get ya?",
       "animationType": 2,
-      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/thumbnail.png",
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/punk-girl/thumbnail.png",
       "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/punk-girl/reducedMotion.png",
       "effects": [
         {
@@ -571,7 +571,7 @@
       "description": "Who keeps summoning these things?",
       "accessibilityLabel": "A ghastly portal suddenly appears, summoning three ghostly spirits to haunt your enemies - no one gets to beat you in a game and get away with it.",
       "animationType": 2,
-      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/thumbnail.png",
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/dark-omens/thumbnail.png",
       "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/reducedMotion.png",
       "effects": [
         {
@@ -614,7 +614,7 @@
       "description": "I don't think you should touch that.",
       "accessibilityLabel": "Out of nowhere, a glob of slime suddently drops from above, forming into a skull before vaporizing in the air. Did someone just curse you?",
       "animationType": 2,
-      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/thumbnail.png",
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/zombie-slime/thumbnail.png",
       "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/zombie-slime/reducedMotion.png",
       "effects": [
         {
@@ -3946,7 +3946,7 @@
       "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/reduced_motion.png",
       "effects": [
         {
-          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/intro.png",
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/blazing-ghoulish-graffiti/intro.png",
           "loop": false,
           "height": 880,
           "width": 450,
@@ -3989,7 +3989,7 @@
       "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/reduced_motion.png",
       "effects": [
         {
-          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/intro.png",
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/neon-ghoulish-graffiti/intro.png",
           "loop": false,
           "height": 880,
           "width": 450,
