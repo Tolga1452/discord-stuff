@@ -3933,6 +3933,264 @@
           "randomizedSources": []
         }
       ]
+    },
+    {
+      "type": 1,
+      "id": "1287835633888526448",
+      "sku_id": "1287835633867559022",
+      "title": "Blazing Ghoulish Graffiti",
+      "description": "Did I scare you?",
+      "accessibilityLabel": "Graffiti-esque stars in burnt orange are strobing across the profile. But wait, you notice there's something written in the stars... \"BOO!\" Did we get ya?",
+      "animationType": 2,
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/thumbnail.png",
+      "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/reduced_motion.png",
+      "effects": [
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/intro.png",
+          "loop": false,
+          "height": 880,
+          "width": 450,
+          "duration": 2573,
+          "start": 0,
+          "loopDelay": 0,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 100,
+          "randomizedSources": []
+        },
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/blazing-ghoulish-graffiti/idle.png",
+          "loop": true,
+          "height": 880,
+          "width": 450,
+          "duration": 2000,
+          "start": 5146,
+          "loopDelay": 4000,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 101,
+          "randomizedSources": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "id": "1287835633938858065",
+      "sku_id": "1287835633896783952",
+      "title": "Neon Ghoulish Graffiti",
+      "description": "Did I scare you?",
+      "accessibilityLabel": "Graffiti-esque stars in neon blues and yellows are strobing across the profile. But wait, you notice there's something written in the stars... \"BOO!\" Did we get ya?",
+      "animationType": 2,
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/thumbnail.png",
+      "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/reduced_motion.png",
+      "effects": [
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/intro.png",
+          "loop": false,
+          "height": 880,
+          "width": 450,
+          "duration": 2573,
+          "start": 0,
+          "loopDelay": 0,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 100,
+          "randomizedSources": []
+        },
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/neon-ghoulish-graffiti/idle.png",
+          "loop": true,
+          "height": 880,
+          "width": 450,
+          "duration": 2000,
+          "start": 5146,
+          "loopDelay": 4000,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 101,
+          "randomizedSources": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "id": "1287835633964023910",
+      "sku_id": "1287835633947115570",
+      "title": "Infernal Dark Omens",
+      "description": "Who keeps summoning these things?",
+      "accessibilityLabel": "A ghastly infernal portal suddenly appears, summoning three blazing, ghostly spirits to haunt your enemies - no one gets to beat you in a game and get away with it.",
+      "animationType": 2,
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/thumbnail.png",
+      "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/reduced_motion.png",
+      "effects": [
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/intro.png",
+          "loop": false,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 0,
+          "loopDelay": 0,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 100,
+          "randomizedSources": []
+        },
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/idle.png",
+          "loop": true,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 5760,
+          "loopDelay": 5760,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 101,
+          "randomizedSources": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "id": "1287835633997451387",
+      "sku_id": "1287835633980669972",
+      "title": "Midnight Dark Omens",
+      "description": "Who keeps summoning these things?",
+      "accessibilityLabel": "A ghastly blue portal suddenly appears, summoning three ghostly spirits to haunt your enemies - no one gets to beat you in a game and get away with it.",
+      "animationType": 2,
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/thumbnail.png",
+      "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/reduced_motion.png",
+      "effects": [
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/intro.png",
+          "loop": false,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 0,
+          "loopDelay": 0,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 100,
+          "randomizedSources": []
+        },
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-dark-omens/idle.png",
+          "loop": true,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 5760,
+          "loopDelay": 5760,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 101,
+          "randomizedSources": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "id": "1287835634026811414",
+      "sku_id": "1287835634005970994",
+      "title": "Bubblegum Zombie Slime",
+      "description": "I don't think you should touch that.",
+      "accessibilityLabel": "Out of nowhere, a glob of pink slime suddently drops from above, forming into a skull before vaporizing in the air. Did someone just curse you?",
+      "animationType": 2,
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/thumbnail.png",
+      "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/reduced_motion.png",
+      "effects": [
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/intro.png",
+          "loop": false,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 0,
+          "loopDelay": 0,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 100,
+          "randomizedSources": []
+        },
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/bubblegum-zombie-slime/idle.png",
+          "loop": true,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 5760,
+          "loopDelay": 5760,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 101,
+          "randomizedSources": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "id": "1287835634073075726",
+      "sku_id": "1287835634035331072",
+      "title": "Midnight Zombie Slime",
+      "description": "I don't think you should touch that.",
+      "accessibilityLabel": "Out of nowhere, a glob of blue slime suddently drops from above, forming into a skull before vaporizing in the air. Did someone just curse you?",
+      "animationType": 2,
+      "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/thumbnail.png",
+      "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/reduced_motion.png",
+      "effects": [
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/intro.png",
+          "loop": false,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 0,
+          "loopDelay": 0,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 100,
+          "randomizedSources": []
+        },
+        {
+          "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/midnight-zombie-slime/idle.png",
+          "loop": true,
+          "height": 880,
+          "width": 450,
+          "duration": 2880,
+          "start": 5760,
+          "loopDelay": 5760,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "zIndex": 101,
+          "randomizedSources": []
+        }
+      ]
     }
   ]
 }
