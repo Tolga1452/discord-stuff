@@ -1,0 +1,89 @@
+{
+  "sku_id": "1197344764174008452",
+  "name": "Uplink Error",
+  "summary": "Anomaly detected, attempting system reset.",
+  "store_listing_id": "1197344746121732196",
+  "banner": "1197343893742694470",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      2102637,
+      459264
+    ],
+    "button_colors": [
+      4801242,
+      3552948
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1197344781060288693",
+      "sku_id": "1197344764174008452"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1197342727608746044",
+  "google_sku_ids": {
+    "5": "1197344764174008452_1259922872860676096",
+    "7": "1197344764174008452_1259922882633666570"
+  }
+}

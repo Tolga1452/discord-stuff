@@ -1,0 +1,91 @@
+{
+  "sku_id": "1245087912350187520",
+  "name": "Hot Shot",
+  "summary": "Baller status: Pro",
+  "store_listing_id": "1245087897439309934",
+  "banner": "1245087533205819452",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      197156,
+      524587
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1245087928992927764",
+      "sku_id": "1245087912350187520",
+      "asset": "a_fa253f928314c8eee54e913f90039eab",
+      "label": "A basketball in flames soars into the hoop, netting 3 points."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1245086656973901894",
+  "google_sku_ids": {
+    "5": "1245087912350187520_1259925632544935936",
+    "7": "1245087912350187520_1259925642422653061"
+  }
+}

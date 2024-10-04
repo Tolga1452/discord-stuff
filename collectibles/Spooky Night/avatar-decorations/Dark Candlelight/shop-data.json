@@ -1,0 +1,91 @@
+{
+  "sku_id": "1287835633590734848",
+  "name": "Dark Candlelight",
+  "summary": "Now you can see in the dark. But so can they...",
+  "store_listing_id": "1287835633594663084",
+  "banner": "1287835634115022961",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      796573,
+      265556
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1287835633607507978",
+      "sku_id": "1287835633590734848",
+      "asset": "a_2c992af67565b20350b7e2934415929d",
+      "label": "Three lit black candles with blueish flames surround the avatar, flickering softly as wax slowly drips down their sides."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1287835634089594972",
+  "google_sku_ids": {
+    "5": "1287835633590734848_1290451464119914537",
+    "7": "1287835633590734848_1290451473871929459"
+  }
+}

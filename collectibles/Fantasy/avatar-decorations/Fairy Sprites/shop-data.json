@@ -1,0 +1,92 @@
+{
+  "sku_id": "1144046002110738634",
+  "name": "Fairy Sprites",
+  "summary": "Here to guide you on your path.",
+  "store_listing_id": "1144046002110738633",
+  "banner": "1149562682983321630",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1335620,
+      137742
+    ],
+    "button_colors": [
+      165687,
+      26954
+    ],
+    "confetti_colors": [
+      15706103,
+      11945665,
+      5682099,
+      1737113,
+      7430319,
+      11454463
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 699,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 699,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1144046002110738635",
+      "sku_id": "1144046002110738634",
+      "asset": "a_fe3c76cac2adf426832a7e495e8329d3",
+      "label": "Three Fairy Sprites, Floating and Shining, Yellow, Animated"
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1144003461608906824",
+  "google_sku_ids": {
+    "5": "1144046002110738634_1259924939818139708",
+    "7": "1144046002110738634_1259924951318659153"
+  }
+}

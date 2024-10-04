@@ -1,0 +1,629 @@
+[
+  {
+    "sku_id": "1283211414323990538",
+    "name": "Fall Foliage Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1283211326977740821",
+    "banner": "1285418783653232642",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        16760655,
+        6362384
+      ],
+      "button_colors": [
+        16097602,
+        14972430
+      ],
+      "confetti_colors": [
+        16740664,
+        9582092,
+        16163636,
+        16762246,
+        16747008
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1157409074422481024",
+        "sku_id": "1157409074422481023",
+        "asset": "a_5087f7f988bd1b2819cac3e33d0150f5",
+        "label": "Chestnut autumn leaves and acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
+      },
+      {
+        "type": 1,
+        "id": "1159277016571449404",
+        "sku_id": "1159280677246742548"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1157406994873991284",
+    "bundled_products": [
+      {
+        "sku_id": "1157409074422481023",
+        "name": "Fall Leaves",
+        "summary": "Behold nature's dance.",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1159280677246742548",
+        "name": "Fall Foliage",
+        "summary": "Getting ready for sweater weather.",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  },
+  {
+    "sku_id": "1282820582223642624",
+    "name": "Scarlet Foliage Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1282820582236356789",
+    "banner": "1285418783653232642",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        16760655,
+        6362384
+      ],
+      "button_colors": [
+        16097602,
+        14972430
+      ],
+      "confetti_colors": [
+        16740664,
+        9582092,
+        16163636,
+        16762246,
+        16747008
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1282820582357995644",
+        "sku_id": "1282820582345408595",
+        "asset": "a_bc63175fe462d8748b68ea5179249418",
+        "label": "Scarlet autumn leaves and acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
+      },
+      {
+        "type": 1,
+        "id": "1282820582421041224",
+        "sku_id": "1282820582408192061"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1157406994873991284",
+    "bundled_products": [
+      {
+        "sku_id": "1282820582345408595",
+        "name": "Scarlet Leaves",
+        "summary": "Behold nature's dance.",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1282820582408192061",
+        "name": "Scarlet Fall Foliage",
+        "summary": "Getting ready for sweater weather.",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  },
+  {
+    "sku_id": "1282820582244880496",
+    "name": "Woodland Foliage Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1282820582253137972",
+    "banner": "1285418783653232642",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        16760655,
+        6362384
+      ],
+      "button_colors": [
+        16097602,
+        14972430
+      ],
+      "confetti_colors": [
+        16740664,
+        9582092,
+        16163636,
+        16762246,
+        16747008
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1282820582378963086",
+        "sku_id": "1282820582366511229",
+        "asset": "a_720a2045510ec16f9878237d2ff9873f",
+        "label": "Green, yellow, and brown, autumn leaves and two acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
+      },
+      {
+        "type": 1,
+        "id": "1282820582441746544",
+        "sku_id": "1282820582429298748"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1157406994873991284",
+    "bundled_products": [
+      {
+        "sku_id": "1282820582366511229",
+        "name": "Woodland Leaves",
+        "summary": "Behold nature's dance.",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1282820582429298748",
+        "name": "Woodland Fall Foliage",
+        "summary": "Getting ready for sweater weather.",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  }
+]

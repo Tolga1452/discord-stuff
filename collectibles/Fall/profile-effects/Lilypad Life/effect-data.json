@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1159275733764550728",
+  "sku_id": "1159280847262859364",
+  "title": "Lilypad Life",
+  "description": "Ribbit.",
+  "accessibilityLabel": "Under drizzling rain, a frog hops onto a floating lilypad, then hops away... perhaps never to be seen again. Farewell, frog friend.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/reducedMotion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/rain/loop.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 5760,
+      "loopDelay": 5760,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

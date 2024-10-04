@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1139323100127834223",
+  "sku_id": "1139323100568244355",
+  "title": "Magic Hearts",
+  "description": "Moon Prism Power, Make Up!",
+  "accessibilityLabel": "Hearts are beating and shimmering upon the profile, binding you under its charm.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/reducedMotion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/magic-girl/loop.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 5760,
+      "loopDelay": 5760,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

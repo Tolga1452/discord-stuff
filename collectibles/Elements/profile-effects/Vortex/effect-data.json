@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1207049367069139004",
+  "sku_id": "1207049364464345158",
+  "title": "Vortex",
+  "description": "Beware the eye of the storm.",
+  "accessibilityLabel": "A giant whirlwind forms across the profile. Wouldn't want to get caught in the middle of that!",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/reduced-motion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-13/vortex/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 5760,
+      "loopDelay": 5760,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

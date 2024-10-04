@@ -1,0 +1,91 @@
+{
+  "sku_id": "1232070870093008937",
+  "name": "Stardust",
+  "summary": "The essence of the cosmos.",
+  "store_listing_id": "1232070840573493308",
+  "banner": "1232037253274927134",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1232071069268049920",
+      "sku_id": "1232070870093008937",
+      "asset": "a_a47890109a231f72dae7b17b27164676",
+      "label": "A glittering ring of colorful stardust adorns the avatar with a celestial touch."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1232029045928099922",
+  "google_sku_ids": {
+    "5": "1232070870093008937_1259920286502092911",
+    "7": "1232070870093008937_1259920304009121932"
+  }
+}

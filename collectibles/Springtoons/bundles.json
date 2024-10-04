@@ -1,0 +1,212 @@
+[
+  {
+    "sku_id": "1243619153688920206",
+    "name": "The Tune of Spring Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1243619125318651935",
+    "banner": "1217623891149586563",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        16777215,
+        7520254
+      ],
+      "button_colors": [
+        15586640,
+        16482611
+      ],
+      "confetti_colors": [
+        16777215,
+        3000177,
+        15774258,
+        9739511,
+        16414587,
+        43772
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1217626041456001146",
+        "sku_id": "1217626024540508170",
+        "asset": "a_4cd9ae5a8d103c219eacd3674d7730cd",
+        "label": "Two butterflies flutter around the avatar, eager to adventure with you to the nearest garden."
+      },
+      {
+        "type": 1,
+        "id": "1217626513940283392",
+        "sku_id": "1217626509737459852"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1217622942175727736",
+    "bundled_products": [
+      {
+        "sku_id": "1217626024540508170",
+        "name": "Butterflies",
+        "summary": "We shall tickle the clouds today - join us!",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1217626509737459852",
+        "name": "Petal Serenade",
+        "summary": "A cascade of floral delight.",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  }
+]

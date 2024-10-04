@@ -1,0 +1,92 @@
+{
+  "sku_id": "1228252042791878707",
+  "name": "Cozy Headphones",
+  "summary": "Perfect for any tune.",
+  "store_listing_id": "1228252025762873404",
+  "banner": "1228245273768230943",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      6512127,
+      14647993
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1228252061171449876",
+      "sku_id": "1228252042791878707",
+      "asset": "a_bb71042ccd2ca277a69f086a4f3354d0",
+      "label": "An avatar wearing a pair of stylish headphones."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1228243842684162121",
+  "google_sku_ids": {
+    "5": "1228252042791878707_1259920660981878894",
+    "7": "1228252042791878707_1259920672109625384"
+  }
+}

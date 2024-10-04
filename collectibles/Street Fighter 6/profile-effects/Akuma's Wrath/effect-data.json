@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1285465421276905582",
+  "sku_id": "1285465421260263464",
+  "title": "Akuma's Wrath",
+  "description": "Messatsu! Feel the power of the Satsui no hado!",
+  "accessibilityLabel": "Akuma's imposing figure appears over the profile, his back turned as dark, demonic energy radiates from him. His presence makes him a mighty ally for imposing fear and respect amongst one's profile admirers.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_reduced_motion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2988,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-17/akuma-wrath/akuma_idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2988,
+      "start": 5976,
+      "loopDelay": 5976,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

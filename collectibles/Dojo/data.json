@@ -1,0 +1,30 @@
+{
+  "sku_id": "1266520267946201099",
+  "name": "Dojo",
+  "summary": "Where discipline meets destiny.",
+  "store_listing_id": "1266520207023804629",
+  "banner": "1275175014001541140",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "logo": "1271173898846601349",
+  "mobile_bg": "1271174042757369970",
+  "pdp_bg": "1271174016761200700",
+  "success_modal_bg": "1271174064471543878",
+  "mobile_banner": "1271173993042411622"
+}

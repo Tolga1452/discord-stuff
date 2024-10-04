@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1256321669493166212",
+  "sku_id": "1256321669467865097",
+  "title": "Arcane Summons",
+  "description": "Invoke your mystical might.",
+  "accessibilityLabel": "A circular sigil inscribed with mysterious symbols appears, summoned by someone preparing to unleash its arcane power. Hope you got some magic resistance.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-01/arcane-summons/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-01/arcane-summons/reduced_motion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-01/arcane-summons/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 4720,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-01/arcane-summons/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 4960,
+      "start": 8000,
+      "loopDelay": 5000,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

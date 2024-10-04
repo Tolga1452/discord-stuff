@@ -1,0 +1,89 @@
+{
+  "sku_id": "1287835634035331072",
+  "name": "Midnight Zombie Slime",
+  "summary": "I don't think you should touch that.",
+  "store_listing_id": "1287835634047647754",
+  "banner": "1287835634115022961",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      796573,
+      265556
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1287835634073075726",
+      "sku_id": "1287835634035331072"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1287835634089594972",
+  "google_sku_ids": {
+    "5": "1287835634035331072_1290450893057298462",
+    "7": "1287835634035331072_1290450917468012617"
+  }
+}

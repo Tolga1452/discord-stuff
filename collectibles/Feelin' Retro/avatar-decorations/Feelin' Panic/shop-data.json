@@ -1,0 +1,91 @@
+{
+  "sku_id": "1237650023794081823",
+  "name": "Feelin' Panic",
+  "summary": "When you get challenged to a spontaneous rap battle.",
+  "store_listing_id": "1237650000276750392",
+  "banner": "1237649691953336363",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      14639359,
+      8411389
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1237650049018892299",
+      "sku_id": "1237650023794081823",
+      "asset": "a_f11c214394044d001d81c983dcab354f",
+      "label": "A digital face in an electronic device panics at the thought of being challenged to a spontaneous rap battle."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1237649643073044491",
+  "google_sku_ids": {
+    "5": "1237650023794081823_1259920016837578822",
+    "7": "1237650023794081823_1259920047875559506"
+  }
+}

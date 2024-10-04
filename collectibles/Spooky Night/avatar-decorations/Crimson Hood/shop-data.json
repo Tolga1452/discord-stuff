@@ -1,0 +1,91 @@
+{
+  "sku_id": "1287835633645125653",
+  "name": "Crimson Hood",
+  "summary": "You definitely don't look suspicious at all.",
+  "store_listing_id": "1287835633653387414",
+  "banner": "1287835634115022961",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      796573,
+      265556
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1287835633661907076",
+      "sku_id": "1287835633645125653",
+      "asset": "a_a78819f4d41900aa7698a1bafaf6af41",
+      "label": "The avatar wears a mysterious crimson hood that flutters as if in strong winds, while streaks of lightning crackle around it."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1287835634089594972",
+  "google_sku_ids": {
+    "5": "1287835633645125653_1290451955298336841",
+    "7": "1287835633645125653_1290451965372796969"
+  }
+}

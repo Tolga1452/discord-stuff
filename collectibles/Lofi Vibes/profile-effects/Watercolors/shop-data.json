@@ -1,0 +1,90 @@
+{
+  "sku_id": "1228237157554978817",
+  "name": "Watercolors",
+  "summary": "When the world feels grey, add a splash of color.",
+  "store_listing_id": "1228253331344855101",
+  "banner": "1228245273768230943",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      6512127,
+      14647993
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1228237154434547833",
+      "sku_id": "1228237157554978817"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1228243842684162121",
+  "google_sku_ids": {
+    "5": "1228237157554978817_1259920749011927122",
+    "7": "1228237157554978817_1259920759208284210"
+  }
+}

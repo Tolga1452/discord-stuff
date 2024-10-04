@@ -1,0 +1,30 @@
+{
+  "sku_id": "1285465421339693076",
+  "name": "Street Fighter 6",
+  "summary": "Hit the streets with Street Fighter.",
+  "store_listing_id": "1285465421331566613",
+  "banner": "1285465421356732426",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      5577756,
+      1118536
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "logo": "1289009898176118885",
+  "mobile_bg": "1285465421377703967",
+  "pdp_bg": "1286854013354250260",
+  "success_modal_bg": "1286854045914366054",
+  "mobile_banner": "1285465421364858880"
+}

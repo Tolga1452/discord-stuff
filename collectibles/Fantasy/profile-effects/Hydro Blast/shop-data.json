@@ -1,0 +1,90 @@
+{
+  "sku_id": "1139323092645183591",
+  "name": "Hydro Blast",
+  "summary": "Time to make a splash.",
+  "store_listing_id": "1139323092645183590",
+  "banner": "1149562682983321630",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1335620,
+      137742
+    ],
+    "button_colors": [
+      165687,
+      26954
+    ],
+    "confetti_colors": [
+      15706103,
+      11945665,
+      5682099,
+      1737113,
+      7430319,
+      11454463
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1199,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 849,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1199,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 849,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1139323075519852625",
+      "sku_id": "1139323092645183591"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1144003461608906824",
+  "google_sku_ids": {
+    "5": "1139323092645183591_1259925069208228043",
+    "7": "1139323092645183591_1259925079072964678"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "sku_id": "1285465421050548345",
+  "name": "Chun-Li",
+  "summary": "A former high-kicking ICPO agent Chun-Li. Never skips leg day.",
+  "store_listing_id": "1285465421058674748",
+  "banner": "1285465421356732426",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      5577756,
+      1118536
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1285465421067059250",
+      "sku_id": "1285465421050548345",
+      "asset": "a_bba133b88b21e1b4a36637335536c3a8",
+      "label": "The avatar dons Chun-Li's signature odango buns, as a whirlwind of strikes leaves behind a dazzling trail of blue streaks."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1285465421339693076",
+  "google_sku_ids": {
+    "5": "1285465421050548345_1287868766075617310",
+    "7": "1285465421050548345_1287868776737406987"
+  }
+}

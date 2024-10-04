@@ -1,0 +1,92 @@
+{
+  "sku_id": "1144308439720394944",
+  "name": "Angry",
+  "summary": "How dare you.",
+  "store_listing_id": "1144308439720394943",
+  "banner": "1212565236721389588",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      11468797,
+      146803
+    ],
+    "button_colors": [
+      4241407,
+      8019679
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 799,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 549,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 799,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 549,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1144308439720394945",
+      "sku_id": "1144308439720394944",
+      "asset": "a_3c97a2d37f433a7913a1c7b7a735d000",
+      "label": "Anger Symbol with Exclamation Mark Speech Bubble, Anime-Style, Red, Animated"
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1212565175790473246",
+  "google_sku_ids": {
+    "5": "1144308439720394944_1259921891557245058",
+    "7": "1144308439720394944_1259921901866979368"
+  }
+}

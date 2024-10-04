@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1282816431997718528",
+  "sku_id": "1282816431985004594",
+  "title": "Twilight Grove",
+  "description": "Step inside and see autumn's beauty unfold.",
+  "accessibilityLabel": "Lovely chrysanthemums decorate the frame of the profile, glowing softly as they shift colors from blue to fuchsia when touched by a pair of fluttering butterflies.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/static.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 3460,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/twilight-grove/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 8340,
+      "start": 2960,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

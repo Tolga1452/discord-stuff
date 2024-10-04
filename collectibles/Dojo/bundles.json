@@ -1,0 +1,420 @@
+[
+  {
+    "sku_id": "1280621222496964630",
+    "name": "Etched in Ink Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1280621158726766622",
+    "banner": "1275175014001541140",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        1118740,
+        1118740
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1271174676797853838",
+        "sku_id": "1271174640026255380",
+        "asset": "a_13913a00bd9990ab4102a3bf069f0f3f",
+        "label": "Cherry blossoms fall gently from a sakura tree, both beautifully etched in ink around the avatar."
+      },
+      {
+        "type": 1,
+        "id": "1271175071263752192",
+        "sku_id": "1271175049168031815"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1266520267946201099",
+    "bundled_products": [
+      {
+        "sku_id": "1271174640026255380",
+        "name": "Sakura Ink",
+        "summary": "Fleeting beauty... forever etched in ink.",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1271175049168031815",
+        "name": "Of Ink and Steel",
+        "summary": "Words in ink, deeds in steel.",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  },
+  {
+    "sku_id": "1271564593746939904",
+    "name": "Straw and Steel Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1271564463115337748",
+    "banner": "1275175014001541140",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        1118740,
+        1118740
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1271174348392235080",
+        "sku_id": "1271174324375519273",
+        "asset": "a_3d1e6078b2e4c8865e0ad0f429d651b1",
+        "label": "An avatar donning a straw hat tilts its head down dramatically under drizzling rain. Cue the boss music."
+      },
+      {
+        "type": 1,
+        "id": "1271175143179423868",
+        "sku_id": "1271175120437641261"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1266520267946201099",
+    "bundled_products": [
+      {
+        "sku_id": "1271174324375519273",
+        "name": "Straw Hat",
+        "summary": "A must-have for the traveling wanderer.",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1271175120437641261",
+        "name": "Sakura Katana",
+        "summary": "May the blossoms guide your blade.",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  }
+]

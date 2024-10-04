@@ -1,0 +1,91 @@
+{
+  "sku_id": "1282816431901118474",
+  "name": "Floral Harmony",
+  "summary": "A touch of day and night woven into every petal.",
+  "store_listing_id": "1282816431905575045",
+  "banner": "1282816432068886560",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      16382457,
+      1184274
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1282816431913832489",
+      "sku_id": "1282816431901118474",
+      "asset": "a_b63917c64ad44020d2d5877a4f91907f",
+      "label": "Soft pink and blue floral petals adorn the avatar, adding a touch of autumn's natural beauty during both day and night."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1282816432056569866",
+  "google_sku_ids": {
+    "5": "1282816431901118474_1285709465764499477",
+    "7": "1282816431901118474_1285709476141465703"
+  }
+}

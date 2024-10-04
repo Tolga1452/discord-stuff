@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1139323101444845690",
+  "sku_id": "1139323101881061466",
+  "title": "Power Surge",
+  "description": "You're about to witness true power.",
+  "accessibilityLabel": "A surge of power erupts, surrounding the profile with an aura of intense energy. Those who gaze upon it will be left in awe.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/sayan/reducedMotion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2400,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/sayan/loop.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2480,
+      "start": 4960,
+      "loopDelay": 4960,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}
