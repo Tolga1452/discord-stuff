@@ -1,0 +1,211 @@
+[
+  {
+    "sku_id": "1245481938202918912",
+    "name": "Star Collector Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1245481910851862528",
+    "banner": "1245087533205819452",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        197156,
+        524587
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1245087875209367623",
+        "sku_id": "1245087850177888356",
+        "asset": "a_8c17e799bfeffa797042569a1ebcafc0",
+        "label": "A circular pipe rapidly shoots out a cascade of colorful stars from one end to the other in an endless loop. Anyone who stares for too long may get starry-eyed."
+      },
+      {
+        "type": 1,
+        "id": "1245088271109722193",
+        "sku_id": "1245088254647205991"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1245086656973901894",
+    "bundled_products": [
+      {
+        "sku_id": "1245087850177888356",
+        "name": "Pipedream",
+        "summary": "If you stare at this for 5,461 seconds without blinking, you win.",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1245088254647205991",
+        "name": "Twinkle Trails",
+        "summary": "Chase the stars to collect them all.",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  }
+]

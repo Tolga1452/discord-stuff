@@ -1,0 +1,89 @@
+{
+  "sku_id": "1159280677246742548",
+  "name": "Fall Foliage",
+  "summary": "Getting ready for sweater weather.",
+  "store_listing_id": "1159280674004549682",
+  "banner": "1285418783653232642",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      16760655,
+      6362384
+    ],
+    "button_colors": [
+      16097602,
+      14972430
+    ],
+    "confetti_colors": [
+      16740664,
+      9582092,
+      16163636,
+      16762246,
+      16747008
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1159277016571449404",
+      "sku_id": "1159280677246742548"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1157406994873991284",
+  "google_sku_ids": {
+    "5": "1159280677246742548_1259923892668071936",
+    "7": "1159280677246742548_1259923903028137984"
+  }
+}

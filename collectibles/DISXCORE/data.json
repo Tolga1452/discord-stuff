@@ -1,0 +1,27 @@
+{
+  "sku_id": "1144058340327047249",
+  "name": "DISXCORE",
+  "summary": "Available to use with an active Nitro subscription.",
+  "store_listing_id": "1144058340327047248",
+  "banner": "1149562891666731108",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      7546213,
+      1121600
+    ],
+    "button_colors": [
+      8734662,
+      12076481
+    ],
+    "confetti_colors": [
+      16069235,
+      9803263,
+      11008590,
+      3350191
+    ]
+  },
+  "logo": "1149562888290320414",
+  "mobile_bg": "1220535994281885786",
+  "mobile_banner": "1224517415958745179"
+}

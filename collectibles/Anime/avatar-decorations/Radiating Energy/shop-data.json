@@ -1,0 +1,92 @@
+{
+  "sku_id": "1154896005045694555",
+  "name": "Radiating Energy",
+  "summary": "Over EIGHT-THOUSAND-NINE-HUNDRED-NINETY-NINE!",
+  "store_listing_id": "1154895977845625043",
+  "banner": "1212565236721389588",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      11468797,
+      146803
+    ],
+    "button_colors": [
+      4241407,
+      8019679
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 799,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 549,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 799,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 549,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1154896010255015996",
+      "sku_id": "1154896005045694555",
+      "asset": "a_c7e1751e8122f1b475cb3006966fb28c",
+      "label": "Radiating Energy Circle with Lightning, Anime-Style, Purple, Animated"
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1212565175790473246",
+  "google_sku_ids": {
+    "5": "1154896005045694555_1259921769188425790",
+    "7": "1154896005045694555_1259921778684465287"
+  }
+}

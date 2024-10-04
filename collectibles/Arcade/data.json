@@ -1,0 +1,29 @@
+{
+  "sku_id": "1245086656973901894",
+  "name": "Arcade",
+  "summary": "Press START to play.",
+  "store_listing_id": "1245086613059408024",
+  "banner": "1245087533205819452",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      197156,
+      524587
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "logo": "1245086730785390793",
+  "mobile_bg": "1245087580463173734",
+  "pdp_bg": "1245087599966683227",
+  "mobile_banner": "1245087618069168150"
+}

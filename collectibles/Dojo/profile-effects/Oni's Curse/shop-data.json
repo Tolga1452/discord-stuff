@@ -1,0 +1,89 @@
+{
+  "sku_id": "1271174907081789524",
+  "name": "Oni's Curse",
+  "summary": "An omen of ancient malevolence...",
+  "store_listing_id": "1271174878858313899",
+  "banner": "1275175014001541140",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1271174932528893962",
+      "sku_id": "1271174907081789524"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1266520267946201099",
+  "google_sku_ids": {
+    "5": "1271174907081789524_1274102175139758091",
+    "7": "1271174907081789524_1274102186850123877"
+  }
+}

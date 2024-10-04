@@ -1,0 +1,91 @@
+{
+  "sku_id": "1256321669467865091",
+  "name": "Eldritch Ring",
+  "summary": "For those days when you want to feel extra cursed.",
+  "store_listing_id": "1256321669467865090",
+  "banner": "1256321669388308597",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      531257,
+      2233427
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1256321669467865092",
+      "sku_id": "1256321669467865091",
+      "asset": "a_ef6fe8b27123eacccebe51c92a61587c",
+      "label": "A cursed ring covered with shadowy roots and enveloped in flickering cursed flames. It may grant its wearer new powers, but at what cost?"
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1256321669388308595",
+  "google_sku_ids": {
+    "5": "1256321669467865091_1259926888143654942",
+    "7": "1256321669467865091_1259926900931956756"
+  }
+}

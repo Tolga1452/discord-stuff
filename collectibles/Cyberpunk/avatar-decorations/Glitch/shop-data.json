@@ -1,0 +1,91 @@
+{
+  "sku_id": "1197344326133502032",
+  "name": "Glitch",
+  "summary": "Neurovisor disruption detected, please standby.",
+  "store_listing_id": "1197344306210545775",
+  "banner": "1197343893742694470",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      2102637,
+      459264
+    ],
+    "button_colors": [
+      4801242,
+      3552948
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1197344345783808161",
+      "sku_id": "1197344326133502032",
+      "asset": "a_e90ebc0114e7bdc30353c8b11953ea41",
+      "label": "Something disrupted the neurovisor connection. The signal appears as static over the avatar. Better call Repairs."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1197342727608746044",
+  "google_sku_ids": {
+    "5": "1197344326133502032_1259922759723646986",
+    "7": "1197344326133502032_1259922777633329336"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "sku_id": "1262491690900656264",
+  "name": "MuscleBob",
+  "summary": "How tough are ya?",
+  "store_listing_id": "1262491690900656263",
+  "banner": "1262491137386614807",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1262491690900656265",
+      "sku_id": "1262491690900656264",
+      "asset": "a_2249f064370a3d5e9f0e7189099d521e",
+      "label": "The avatar, now blessed with the remarkable arms of MuscleBob BuffPants, flexes off its muscles and hard-earned gains."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1262491137386614805",
+  "google_sku_ids": {
+    "5": "1262491690900656264_1262866118066835486",
+    "7": "1262491690900656264_1262866152980217898"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "sku_id": "1262491137386614805",
+  "name": "SpongeBob",
+  "summary": "Celebrate 25 years of nautical nonsense!",
+  "store_listing_id": "1262491137386614804",
+  "banner": "1262491137386614807",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "logo": "1265056547986341950",
+  "mobile_bg": "1262491137386614810",
+  "pdp_bg": "1262491137386614809",
+  "success_modal_bg": "1262760748120014868",
+  "mobile_banner": "1262491137386614808"
+}

@@ -1,0 +1,74 @@
+{
+  "type": 1,
+  "id": "1245088109582880848",
+  "sku_id": "1245088094437507163",
+  "title": "Space Evader",
+  "description": "That was the best flying I've seen to date - right up to the part where you got hit.",
+  "accessibilityLabel": "A spaceship quickly barrelrolls out of the way from a barrage of laser fire. Unfortunately, it doesn't evade the follow up missile attack and gets taken out. Better luck next time.",
+  "animationType": 1,
+  "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/static.png",
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/reduced_motion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/intro_bg.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 4160,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/intro_spaceship.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 3840,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 4800,
+      "start": 7000,
+      "loopDelay": 3500,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 102,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-29/space-evader/hud.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2400,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 103,
+      "randomizedSources": []
+    }
+  ]
+}

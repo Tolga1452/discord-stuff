@@ -1,0 +1,91 @@
+{
+  "sku_id": "1271174241860980907",
+  "name": "Oni Mask",
+  "summary": "Unleash your inner demon.",
+  "store_listing_id": "1271174213067214950",
+  "banner": "1275175014001541140",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1271174271301062766",
+      "sku_id": "1271174241860980907",
+      "asset": "a_a21393f8a2cb8eafbdfb5364fb1cbbae",
+      "label": "A demon Oni mask breathes out smoky fumes, adding to its fearsome and ominous look."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1266520267946201099",
+  "google_sku_ids": {
+    "5": "1271174241860980907_1274099467494228058",
+    "7": "1271174241860980907_1274099480035196988"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "sku_id": "1262491137386614812",
+  "name": "SpongeBob",
+  "summary": "Order up!",
+  "store_listing_id": "1262491137386614811",
+  "banner": "1262491137386614807",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1262491137386614813",
+      "sku_id": "1262491137386614812",
+      "asset": "a_914f20f4984a11b5255f0e42c661fa5b",
+      "label": "The avatar wears SpongeBob's signature outfit while twirling a spatula with ease, ready to cook up some Krabby Pattys."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1262491137386614805",
+  "google_sku_ids": {
+    "5": "1262491137386614812_1262866087179976804",
+    "7": "1262491137386614812_1262866117538611384"
+  }
+}

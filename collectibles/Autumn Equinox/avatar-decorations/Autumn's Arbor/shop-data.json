@@ -1,0 +1,91 @@
+{
+  "sku_id": "1282816431922085888",
+  "name": "Autumn's Arbor",
+  "summary": "Where day and night share equal ground.",
+  "store_listing_id": "1282816431926546494",
+  "banner": "1282816432068886560",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      16382457,
+      1184274
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1282816431934803999",
+      "sku_id": "1282816431922085888",
+      "asset": "a_fead934c894e95e070d8a0301f9f0b27",
+      "label": "Two autumn trees - one with brilliant blue leaves, and the other with vibrant red leaves - wrap around the avatar, connected by the same roots that are sprinkled with pink petals."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1282816432056569866",
+  "google_sku_ids": {
+    "5": "1282816431922085888_1285707237347561483",
+    "7": "1282816431922085888_1285707248718577744"
+  }
+}

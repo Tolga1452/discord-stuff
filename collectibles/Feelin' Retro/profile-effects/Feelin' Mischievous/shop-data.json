@@ -1,0 +1,89 @@
+{
+  "sku_id": "1237650411410685972",
+  "name": "Feelin' Mischievous",
+  "summary": "Why you little...",
+  "store_listing_id": "1237650390841950249",
+  "banner": "1237649691953336363",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      14639359,
+      8411389
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1237650432650645504",
+      "sku_id": "1237650411410685972"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1237649643073044491",
+  "google_sku_ids": {
+    "5": "1237650411410685972_1259920099427619019",
+    "7": "1237650411410685972_1259920109351473343"
+  }
+}

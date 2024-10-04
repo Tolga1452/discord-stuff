@@ -1,0 +1,91 @@
+{
+  "sku_id": "1285465421096685639",
+  "name": "Akuma",
+  "summary": "A demon of combat (the raging kind!) that has welcomed the Satsui no Hado into his being.",
+  "store_listing_id": "1285465421104812124",
+  "banner": "1285465421356732426",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      5577756,
+      1118536
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1285465421113196617",
+      "sku_id": "1285465421096685639",
+      "asset": "a_1e8cb6070b13f775a41384c84c5a53e1",
+      "label": "With Akuma's beard and sinister wisps of demon energy, the avatar transforms into a fierce warrior, ready to unleash destruction."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1285465421339693076",
+  "google_sku_ids": {
+    "5": "1285465421096685639_1287867788895195207",
+    "7": "1285465421096685639_1287867800345382912"
+  }
+}

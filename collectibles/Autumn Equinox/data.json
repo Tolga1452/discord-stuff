@@ -1,0 +1,30 @@
+{
+  "sku_id": "1282816432056569866",
+  "name": "Autumn Equinox",
+  "summary": "Beauty in balance.",
+  "store_listing_id": "1282816432047915029",
+  "banner": "1282816432068886560",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      16382457,
+      1184274
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "logo": "1282816432060633161",
+  "mobile_bg": "1285647084158189668",
+  "pdp_bg": "1282816432081604660",
+  "success_modal_bg": "1282816432098512907",
+  "mobile_banner": "1282816432077541386"
+}

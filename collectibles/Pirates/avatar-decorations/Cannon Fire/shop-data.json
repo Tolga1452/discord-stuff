@@ -1,0 +1,91 @@
+{
+  "sku_id": "1237654615474962472",
+  "name": "Cannon Fire",
+  "summary": "Sink yer foes in iron and let 'em be claimed by the sea...",
+  "store_listing_id": "1237654287564144712",
+  "banner": "1237653638738874408",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      2759705,
+      8073756
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1237654645846048860",
+      "sku_id": "1237654615474962472",
+      "asset": "a_91a33236cf2728310a3a29bbdc8e0d29",
+      "label": "Two loaded cannons fire their shots at their target. If their aim be true, their foes will dine with the fishes!"
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1237653589896200272",
+  "google_sku_ids": {
+    "5": "1237654615474962472_1259919734493810841",
+    "7": "1237654615474962472_1259919745109590086"
+  }
+}

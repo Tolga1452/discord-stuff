@@ -1,0 +1,92 @@
+{
+  "sku_id": "1217625794382401577",
+  "name": "Strawberry Vine",
+  "summary": "Now that's a sweet harvest.",
+  "store_listing_id": "1217625769916764380",
+  "banner": "1217623891149586563",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      16777215,
+      7520254
+    ],
+    "button_colors": [
+      15586640,
+      16482611
+    ],
+    "confetti_colors": [
+      16777215,
+      3000177,
+      15774258,
+      9739511,
+      16414587,
+      43772
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1217625936015392890",
+      "sku_id": "1217625794382401577",
+      "asset": "a_9867b1ba56601e745cfe741e6b00b835",
+      "label": "Three happy strawberries are hanging out together on a vine, when suddenly one of them breaks free for a sweet escape."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1217622942175727736",
+  "google_sku_ids": {
+    "5": "1217625794382401577_1259921222544916490",
+    "7": "1217625794382401577_1259921232590012487"
+  }
+}

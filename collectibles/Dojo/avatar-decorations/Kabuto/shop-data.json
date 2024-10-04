@@ -1,0 +1,91 @@
+{
+  "sku_id": "1271174154514595891",
+  "name": "Kabuto",
+  "summary": "Donned only by true warriors.",
+  "store_listing_id": "1271174130057609266",
+  "banner": "1275175014001541140",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1271174186487906394",
+      "sku_id": "1271174154514595891",
+      "asset": "a_084353360ae4f9b5b3b5f186e5525de0",
+      "label": "A crimson kabuto helmet gleams with a pristine shine, ready for its warrior to wear it into battle."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1266520267946201099",
+  "google_sku_ids": {
+    "5": "1271174154514595891_1274100037827297361",
+    "7": "1271174154514595891_1274100048791212032"
+  }
+}
