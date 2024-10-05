@@ -1,0 +1,28 @@
+{
+  "type": 1,
+  "id": "1139323099251232829",
+  "sku_id": "1139323099687436419",
+  "title": "Pixie Dust",
+  "description": "Did a pixie sneeze nearby?",
+  "accessibilityLabel": "Glimmering pixie dust and sparkles adorn the outer edges of the profile, casting a radiant glow.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/reducedMotion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 0,
+      "loopDelay": 2880,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    }
+  ]
+}

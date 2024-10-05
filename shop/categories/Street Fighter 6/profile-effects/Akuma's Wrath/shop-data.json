@@ -1,0 +1,89 @@
+{
+  "sku_id": "1285465421260263464",
+  "name": "Akuma's Wrath",
+  "summary": "Messatsu! Feel the power of the Satsui no hado!",
+  "store_listing_id": "1285465421268389938",
+  "banner": "1285465421356732426",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      5577756,
+      1118536
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1299,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 999,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1285465421276905582",
+      "sku_id": "1285465421260263464"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1285465421339693076",
+  "google_sku_ids": {
+    "5": "1285465421260263464_1287866843020787886",
+    "7": "1285465421260263464_1287866856220135464"
+  }
+}

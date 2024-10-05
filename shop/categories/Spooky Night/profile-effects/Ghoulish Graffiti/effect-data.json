@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1139323101881061467",
+  "sku_id": "1158572178179108968",
+  "title": "Ghoulish Graffiti",
+  "description": "Did I scare you?",
+  "accessibilityLabel": "Graffiti-esque stars are strobing across the profile. But wait, you notice there's something written in the stars... 'BOO!' Did we get ya?",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-10-01/punk-girl/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/punk-girl/reducedMotion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2573,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2023-10-11/punk-girl/loop.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2000,
+      "start": 5146,
+      "loopDelay": 4000,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": 1,
+  "id": "1228233381897179137",
+  "sku_id": "1228233390260486164",
+  "title": "Study Spot",
+  "description": "Time to hit the books.",
+  "accessibilityLabel": "A jumble of stationery and electronics appear on the profile, indicating a serious study session about to take place.",
+  "animationType": 1,
+  "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/study-spot/thumbnail.png",
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/study-spot/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/study-spot/thumbnail.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-12/study-spot/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 3000,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/study-spot/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 3000,
+      "start": 3000,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

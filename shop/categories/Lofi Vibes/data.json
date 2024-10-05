@@ -1,0 +1,30 @@
+{
+  "sku_id": "1228243842684162121",
+  "name": "Lofi Vibes",
+  "summary": "Where chill meets mood.",
+  "store_listing_id": "1228243823310802955",
+  "banner": "1228245273768230943",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      6512127,
+      14647993
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "logo": "1228245117085679668",
+  "mobile_bg": "1228245377384190022",
+  "pdp_bg": "1228245524658917417",
+  "mobile_banner": "1228245604413476935"
+}

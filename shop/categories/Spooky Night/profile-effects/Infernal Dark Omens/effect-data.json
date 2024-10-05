@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1287835633964023910",
+  "sku_id": "1287835633947115570",
+  "title": "Infernal Dark Omens",
+  "description": "Who keeps summoning these things?",
+  "accessibilityLabel": "A ghastly infernal portal suddenly appears, summoning three blazing, ghostly spirits to haunt your enemies - no one gets to beat you in a game and get away with it.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/reduced_motion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-09-23/infernal-dark-omens/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2880,
+      "start": 5760,
+      "loopDelay": 5760,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

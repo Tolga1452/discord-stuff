@@ -1,0 +1,90 @@
+{
+  "sku_id": "1212582298893946880",
+  "name": "Dreamy",
+  "summary": "When senpai notices you.",
+  "store_listing_id": "1212582278899834930",
+  "banner": "1212565236721389588",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      11468797,
+      146803
+    ],
+    "button_colors": [
+      4241407,
+      8019679
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 1,
+      "id": "1212582317986545694",
+      "sku_id": "1212582298893946880"
+    }
+  ],
+  "type": 1,
+  "premium_type": 0,
+  "category_sku_id": "1212565175790473246",
+  "google_sku_ids": {
+    "5": "1212582298893946880_1259921912612655235",
+    "7": "1212582298893946880_1259921923006005320"
+  }
+}

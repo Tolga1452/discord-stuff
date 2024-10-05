@@ -1,0 +1,91 @@
+{
+  "sku_id": "1268362891946627103",
+  "name": "VALORANT Champions 2024",
+  "summary": "All paths end here.",
+  "store_listing_id": "1274070185052999690",
+  "banner": "1266108773005529118",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1199,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1199,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1274070185090879567",
+      "sku_id": "1268362891946627103",
+      "asset": "a_90e0dce3cc48c4a9607b6d41209c737e",
+      "label": "Metallic vines and thorns tightly wrap and writhe around the avatar. A metallic symbol shaped after the VALORANT Champions Tour logo then appears before being absorbed into the avatar's center."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1265375293397270650",
+  "google_sku_ids": {
+    "5": "1268362891946627103_1276022027597381684",
+    "7": "1268362891946627103_1276022036808077352"
+  }
+}

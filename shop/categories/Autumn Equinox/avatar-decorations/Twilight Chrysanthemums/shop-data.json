@@ -1,0 +1,91 @@
+{
+  "sku_id": "1282816431850782730",
+  "name": "Twilight Chrysanthemums",
+  "summary": "Transformation is a dance where your inner beauty finds its rhythm.",
+  "store_listing_id": "1282816431855243395",
+  "banner": "1282816432068886560",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      16382457,
+      1184274
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1282816431863500920",
+      "sku_id": "1282816431850782730",
+      "asset": "a_eb003dc2b5c6d85c8e18cc9336fcdad3",
+      "label": "The avatar is decorated with sprouted and blooming chrysanthemums that continuously change from pink to blue as a pair of glowing butterflies - one blue and the other pink as well - encircle the avatar."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1282816432056569866",
+  "google_sku_ids": {
+    "5": "1282816431850782730_1285707094334640140",
+    "7": "1282816431850782730_1285707106414104687"
+  }
+}

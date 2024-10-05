@@ -1,0 +1,91 @@
+{
+  "sku_id": "1245087724265013299",
+  "name": "Clyde Invaders",
+  "summary": "Rogue invaders have taken control of the galaxy. It's up to you to save the day.",
+  "store_listing_id": "1245087698272915577",
+  "banner": "1245087533205819452",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      197156,
+      524587
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1245087740928720977",
+      "sku_id": "1245087724265013299",
+      "asset": "a_e72e44eeea89e92dc02c9bec8b02d158",
+      "label": "One small but mighty fightership in space blasts some pesky invaders that are shaped like Clyde to guarantee the safety of the universe for another day."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1245086656973901894",
+  "google_sku_ids": {
+    "5": "1245087724265013299_1259925592019566752",
+    "7": "1245087724265013299_1259925601268273292"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "sku_id": "1207046915880124426",
+  "name": "Elements",
+  "summary": "Which will you unleash?",
+  "store_listing_id": "1207046886536781865",
+  "banner": "1207046965909655592",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1776545,
+      5673
+    ],
+    "button_colors": [
+      15449370,
+      15894798
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "logo": "1207046939544129577",
+  "mobile_bg": "1220535765759426700",
+  "pdp_bg": "1217989949152821258",
+  "mobile_banner": "1224517292453265439"
+}

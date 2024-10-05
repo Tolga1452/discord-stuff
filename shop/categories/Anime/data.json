@@ -1,0 +1,30 @@
+{
+  "sku_id": "1212565175790473246",
+  "name": "Anime",
+  "summary": "Senpai will definitely notice you.",
+  "store_listing_id": "1212565150280974377",
+  "banner": "1212565236721389588",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      11468797,
+      146803
+    ],
+    "button_colors": [
+      4241407,
+      8019679
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "logo": "1212565210682884167",
+  "mobile_bg": "1220535728166146098",
+  "pdp_bg": "1217929860304076890",
+  "mobile_banner": "1224517355711889439"
+}

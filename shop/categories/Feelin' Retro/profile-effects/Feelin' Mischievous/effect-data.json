@@ -1,0 +1,74 @@
+{
+  "type": 1,
+  "id": "1237650432650645504",
+  "sku_id": "1237650411410685972",
+  "title": "Feelin' Mischievous",
+  "description": "Why you little...",
+  "accessibilityLabel": "A digital, goofy face zips onto the profile, blows a raspberry, and leaves behind a poop. ",
+  "animationType": 1,
+  "staticFrameSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/static.png",
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/reduced_motion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/intro_bg.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 5200,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 5200,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/idle_bg.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2160,
+      "start": 4800,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 102,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-05-09/feelin-mischievous/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 2160,
+      "start": 4800,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 103,
+      "randomizedSources": []
+    }
+  ]
+}

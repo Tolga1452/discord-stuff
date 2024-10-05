@@ -1,0 +1,91 @@
+{
+  "sku_id": "1220513984273186816",
+  "name": "Omen's Cowl",
+  "summary": "Embrace the shadows.",
+  "store_listing_id": "1220513982083764357",
+  "banner": "1266108773005529118",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      1118740,
+      1118740
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1199,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 1199,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1220513986051837952",
+      "sku_id": "1220513984273186816",
+      "asset": "a_c45abe8c7585fdb41b8d8d4d666f1588",
+      "label": "The avatar wears Omen's signature hood."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1265375293397270650",
+  "google_sku_ids": {
+    "5": "1220513984273186816_1259920890167034007",
+    "7": "1220513984273186816_1259920900472569910"
+  }
+}

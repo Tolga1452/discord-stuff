@@ -1,0 +1,43 @@
+{
+  "type": 1,
+  "id": "1266493591191158814",
+  "sku_id": "1266493591207940133",
+  "title": "Yoru Dimensional Rip",
+  "description": "Tear through the dimensional fabric and make your mark.",
+  "accessibilityLabel": "The hands of Yoru appear over your profile. Yoru's masked face is visible for just a second before he succeeds in tearing open the dimensional fabric of your profile and seemingly vanishes.",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-26/yoru_dimensional_rip/thumbnail.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-26/yoru_dimensional_rip/reduced_motion.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-30/yoru_dimensional_rip/intro.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 4235,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-26/yoru_dimensional_rip/idle.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 4500,
+      "start": 7235,
+      "loopDelay": 5000,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    }
+  ]
+}

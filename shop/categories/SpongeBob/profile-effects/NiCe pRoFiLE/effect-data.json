@@ -1,0 +1,58 @@
+{
+  "type": 1,
+  "id": "1262491690971955282",
+  "sku_id": "1262491690900656267",
+  "title": "NiCe pRoFiLE",
+  "description": "uSE tHis EFfeCt.",
+  "accessibilityLabel": "SpongeBob waddles onto the profile with his arms nested onto his hips like a chicken. He kicks off the ground a few times before rapidly flapping his arms and somehow flying away. Who showed him the plaid this time?",
+  "animationType": 2,
+  "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/nice-profile/thumbnail_f44f333d.png",
+  "reducedMotionSrc": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/nice-profile/reduced_motion_b65c8c80.png",
+  "effects": [
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-24/nice-profile/intro_a9d1e733.png",
+      "loop": false,
+      "height": 880,
+      "width": 450,
+      "duration": 6000,
+      "start": 0,
+      "loopDelay": 0,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 100,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/nice-profile/idle_a.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 4760,
+      "start": 8920,
+      "loopDelay": 14760,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 101,
+      "randomizedSources": []
+    },
+    {
+      "src": "https://cdn.discordapp.com/assets/profile_effects/effects/2024-07-15/nice-profile/idle_b.png",
+      "loop": true,
+      "height": 880,
+      "width": 450,
+      "duration": 4760,
+      "start": 18680,
+      "loopDelay": 14760,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "zIndex": 102,
+      "randomizedSources": []
+    }
+  ]
+}

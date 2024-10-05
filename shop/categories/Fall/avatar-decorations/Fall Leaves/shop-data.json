@@ -1,0 +1,91 @@
+{
+  "sku_id": "1157409074422481023",
+  "name": "Fall Leaves",
+  "summary": "Behold nature's dance.",
+  "store_listing_id": "1157409074422481022",
+  "banner": "1285418783653232642",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      16760655,
+      6362384
+    ],
+    "button_colors": [
+      16097602,
+      14972430
+    ],
+    "confetti_colors": [
+      16740664,
+      9582092,
+      16163636,
+      16762246,
+      16747008
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1157409074422481024",
+      "sku_id": "1157409074422481023",
+      "asset": "a_5087f7f988bd1b2819cac3e33d0150f5",
+      "label": "Chestnut autumn leaves and acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1157406994873991284",
+  "google_sku_ids": {
+    "5": "1157409074422481023_1259923799797927998",
+    "7": "1157409074422481023_1259923817556480040"
+  }
+}

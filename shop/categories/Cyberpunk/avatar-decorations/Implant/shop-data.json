@@ -1,0 +1,91 @@
+{
+  "sku_id": "1197344636558114986",
+  "name": "Implant",
+  "summary": "Get ready to jack in.",
+  "store_listing_id": "1197344616270274570",
+  "banner": "1197343893742694470",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      2102637,
+      459264
+    ],
+    "button_colors": [
+      4801242,
+      3552948
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1197344653515690054",
+      "sku_id": "1197344636558114986",
+      "asset": "a_172fa9da0af8698e37f5e5de76637439",
+      "label": "A surge of energy pulses through wires perched on top of this avatar. Electricity dangerously crackles over the image. Be careful with this one!"
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1197342727608746044",
+  "google_sku_ids": {
+    "5": "1197344636558114986_1259922829432979506",
+    "7": "1197344636558114986_1259922839742582794"
+  }
+}

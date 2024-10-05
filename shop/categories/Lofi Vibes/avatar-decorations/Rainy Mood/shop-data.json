@@ -1,0 +1,92 @@
+{
+  "sku_id": "1228251846032756796",
+  "name": "Rainy Mood",
+  "summary": "Feel the calm.",
+  "store_listing_id": "1228251750423592970",
+  "banner": "1228245273768230943",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      6512127,
+      14647993
+    ],
+    "button_colors": [
+      5793266,
+      5793266
+    ],
+    "confetti_colors": [
+      2923481,
+      14969472,
+      16770304,
+      12298453,
+      4120019,
+      14858081
+    ]
+  },
+  "prices": {
+    "0": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "4": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "5": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 599,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    },
+    "7": {
+      "country_prices": {
+        "country_code": "US",
+        "prices": [
+          {
+            "amount": 499,
+            "currency": "usd",
+            "exponent": 2
+          }
+        ]
+      }
+    }
+  },
+  "items": [
+    {
+      "type": 0,
+      "id": "1228251862709567508",
+      "sku_id": "1228251846032756796",
+      "asset": "a_e8c11f139e55dac538cdaafb3caa2317",
+      "label": "Raindrops sprinkle outside of the avatar through a window's view for a calming ambiance."
+    }
+  ],
+  "type": 0,
+  "premium_type": 0,
+  "category_sku_id": "1228243842684162121",
+  "google_sku_ids": {
+    "5": "1228251846032756796_1259920640803340389",
+    "7": "1228251846032756796_1259920650810687568"
+  }
+}

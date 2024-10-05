@@ -1,0 +1,211 @@
+[
+  {
+    "sku_id": "1243617981435478102",
+    "name": "In My Feels Bundle",
+    "summary": "A bundle of collectibles.",
+    "store_listing_id": "1243617955800158239",
+    "banner": "1237649691953336363",
+    "unpublished_at": null,
+    "styles": {
+      "background_colors": [
+        14639359,
+        8411389
+      ],
+      "button_colors": [
+        5793266,
+        5793266
+      ],
+      "confetti_colors": [
+        43772,
+        15774258,
+        16414587,
+        3000177,
+        9739511
+      ]
+    },
+    "prices": {
+      "0": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "4": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "5": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 1099,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      },
+      "7": {
+        "country_prices": {
+          "country_code": "US",
+          "prices": [
+            {
+              "amount": 899,
+              "currency": "usd",
+              "exponent": 2
+            }
+          ]
+        }
+      }
+    },
+    "items": [
+      {
+        "type": 0,
+        "id": "1237650202391744522",
+        "sku_id": "1237650179721527347",
+        "asset": "a_9d35467f282b8c72a26f5aa40aa2a637",
+        "label": "A digital face in an electronic device licks its lips."
+      },
+      {
+        "type": 1,
+        "id": "1237650432650645504",
+        "sku_id": "1237650411410685972"
+      }
+    ],
+    "type": 1000,
+    "premium_type": 0,
+    "category_sku_id": "1237649643073044491",
+    "bundled_products": [
+      {
+        "sku_id": "1237650179721527347",
+        "name": "Feelin' Scrumptious",
+        "summary": "When they let you cook.",
+        "type": 0,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "sku_id": "1237650411410685972",
+        "name": "Feelin' Mischievous",
+        "summary": "Why you little...",
+        "type": 1,
+        "premium_type": 0,
+        "prices": {
+          "0": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "4": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "5": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 599,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          },
+          "7": {
+            "country_prices": {
+              "country_code": "US",
+              "prices": [
+                {
+                  "amount": 499,
+                  "currency": "usd",
+                  "exponent": 2
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "google_sku_ids": {}
+  }
+]

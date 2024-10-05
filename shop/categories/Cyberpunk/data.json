@@ -1,0 +1,29 @@
+{
+  "sku_id": "1197342727608746044",
+  "name": "Cyberpunk",
+  "summary": "Welcome to the neon embrace of the future.",
+  "store_listing_id": "1197342697200029767",
+  "banner": "1197343893742694470",
+  "unpublished_at": null,
+  "styles": {
+    "background_colors": [
+      2102637,
+      459264
+    ],
+    "button_colors": [
+      4801242,
+      3552948
+    ],
+    "confetti_colors": [
+      43772,
+      15774258,
+      16414587,
+      3000177,
+      9739511
+    ]
+  },
+  "logo": "1197343875023523930",
+  "mobile_bg": "1220535830246985828",
+  "pdp_bg": "1217990008854679602",
+  "mobile_banner": "1224517328536866909"
+}
