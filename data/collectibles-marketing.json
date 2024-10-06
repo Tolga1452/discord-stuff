@@ -1,0 +1,26 @@
+{
+  "marketings": {
+    "0": {
+      "type": 0,
+      "version": 6,
+      "title": "Check out new Spooky Night arrivals.",
+      "body": null,
+      "avatar": "https://cdn.discordapp.com/assets/content/593ecbbcd2f86dd9f4977a2a7aa6269407f5c214fe3a4cf188fa18421000dca0.png",
+      "decorations": [
+        "a_c4395b178205217ad09cae605ef11b1a",
+        "a_33656b7ed12cde00c1826b654cf65590",
+        "a_5cc3476f582a5649e64ab0a95504c4e9"
+      ],
+      "dismissible_content": 422,
+      "ref_target_background": null
+    },
+    "2": {
+      "type": 2,
+      "version": 6,
+      "title": "Give your profile a fresh look",
+      "body": "Check out the latest avatar decorations and profile effects and collect your favorite styles.",
+      "asset": "https://cdn.discordapp.com/assets/content/ff70fc1ec7c3faf0e058a0b05628c951319cc5cc552c2ab7ab25fb66f1330ba1.png",
+      "popout_asset": "https://cdn.discordapp.com/assets/content/12e47d0bbb7bae9f325ea90cf457d47f3989344cc577137808a3de486b12f46d.png"
+    }
+  }
+}
